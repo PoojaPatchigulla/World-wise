@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "54b7",
+      "cityName": "Heggadadevankote",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-03-16T16:31:00.115Z",
+      "notes": "",
+      "position": {
+        "lat": "12.000464210382084",
+        "lng": "76.27286977788933"
+      }
+    },
+    {
+      "id": "6c6d",
+      "cityName": "Heggadadevankote",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-03-16T16:33:26.892Z",
+      "notes": "",
+      "position": {
+        "lat": "12.000464210382084",
+        "lng": "76.27286977788933"
+      }
+    },
+    {
+      "id": "9799",
+      "cityName": "Torrelacarcel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-16T16:58:15.647Z",
+      "notes": "",
+      "position": {
+        "lat": "40.616327399094985",
+        "lng": "-1.2963867187500002"
+      }
+    },
+    {
+      "id": "93f8",
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-16T16:58:15.647Z",
+      "notes": "",
+      "position": {
+        "lat": "39.4733843918191",
+        "lng": "-0.28564453125000006"
+      }
+    },
+    {
+      "id": "92d6",
+      "cityName": "Shannan Diqu",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-03-16T18:22:24.271Z",
+      "notes": "",
+      "position": {
+        "lat": "29.479008008761685",
+        "lng": "91.65893554687501"
+      }
+    }
+  ]
+}
